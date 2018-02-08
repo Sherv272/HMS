@@ -46,6 +46,6 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-.grey {
-	background-color: grey;
+.red{
+	color: red;
 }
