@@ -50,7 +50,6 @@ table {
 	color: blue;
 	background: lightblue;
 }
-
-body {
-	background-color: grey;
+.wrapper{
+	background: red;
 }
