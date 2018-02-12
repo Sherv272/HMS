@@ -46,10 +46,24 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+.row{
+	height: 1080px;
+}
 .blue{
 	color: blue;
 	background: lightblue;
 }
 .wrapper{
-	background: red;
+}
+.red{
+	color: red;
+	background: #ef5f5f;
+	width: 50%;
+	float: left;
+}
+.green{
+	color: green;
+	background: #5fef5f;
+	width: 50%;
+	float: right;
 }
